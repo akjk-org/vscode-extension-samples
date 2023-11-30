@@ -237,6 +237,6 @@
 		"jsonc-parser": "^0.4.2",
 		"minimist": "^1.2.6",
 		"mkdirp": "^0.5.1",
-		"rimraf": "^2.6.2"
+		"rimraf": "^4.0.0"
 	}
 }
