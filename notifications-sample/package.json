@@ -63,9 +63,9 @@
 		"@types/node": "16.x",
 		"@typescript-eslint/eslint-plugin": "^5.27.0",
 		"@typescript-eslint/parser": "^5.27.0",
-		"eslint": "^8.16.0",
-		"glob": "^8.0.3",
+		"eslint": "^9.0.0",
+		"glob": "^9.0.0",
 		"typescript": "^5.0.2",
-		"@vscode/test-electron": "^2.1.3"
+		"@vscode/test-electron": "^2.3.0"
 	}
 }
