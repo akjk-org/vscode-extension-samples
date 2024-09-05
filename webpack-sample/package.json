@@ -36,9 +36,9 @@
 	"devDependencies": {
 		"@types/node": "^16.11.7",
 		"@types/vscode": "^1.73.0",
-		"@typescript-eslint/eslint-plugin": "^5.42.0",
-		"@typescript-eslint/parser": "^5.42.0",
-		"eslint": "^8.26.0",
+		"@typescript-eslint/eslint-plugin": "^8.3.0",
+		"@typescript-eslint/parser": "^8.3.0",
+		"eslint": "^8.44.0",
 		"ts-loader": "^7.0.5",
 		"typescript": "^5.0.2",
 		"webpack": "^5.75.0",
