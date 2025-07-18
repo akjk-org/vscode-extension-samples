@@ -37,9 +37,9 @@
 		"@typescript-eslint/eslint-plugin": "^5.42.0",
 		"@typescript-eslint/parser": "^5.42.0",
 		"@vscode/test-electron": "^1.6.1",
-		"eslint": "^8.26.0",
+		"eslint": "^9.0.0",
 		"glob": "^7.1.4",
-		"mocha": "^10.2.0",
+		"mocha": "^11.0.1",
 		"source-map-support": "^0.5.12",
 		"typescript": "^5.0.2"
 	}
