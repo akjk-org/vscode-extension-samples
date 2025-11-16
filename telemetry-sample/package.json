@@ -39,7 +39,7 @@
 		"@types/node": "^16.11.7",
 		"@typescript-eslint/eslint-plugin": "^5.40.1",
 		"@typescript-eslint/parser": "^5.40.1",
-		"eslint": "^8.25.0",
+		"eslint": "^9.0.0",
 		"typescript": "^5.0.2",
 		"vscode-dts": "^0.3.3"
 	}
