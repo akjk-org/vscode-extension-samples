@@ -46,17 +46,17 @@
     "@typescript-eslint/eslint-plugin": "^5.42.0",
     "@typescript-eslint/parser": "^5.42.0",
     "concurrently": "^5.3.0",
-    "css-loader": "^4.2.0",
-    "eslint": "^8.26.0",
+    "css-loader": "^6.0.0",
+    "eslint": "^10.0.0",
     "glob": "^7.1.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "style-loader": "^1.2.1",
+    "style-loader": "^3.0.0",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.2",
     "vscode-notebook-error-overlay": "^1.0.1",
     "vscode-test": "^1.5.2",
-    "webpack": "^5.38.1",
+    "webpack": "^5.98.0",
     "webpack-cli": "^4.7.0"
   }
 }
